@@ -8,7 +8,7 @@ The analyst will then evaluate several supervised learners of their choice on th
 ## Project Highlights
 This project is designed to become acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
-Things learn by completing this project:
+Things learned by completing this project:
 - How to identify when preprocessing is needed, and how to apply it.
 - How to establish a benchmark for a solution to the problem.
 - What each of several supervised learning algorithms accomplishes given a specific dataset.
