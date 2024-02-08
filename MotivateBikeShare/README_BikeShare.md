@@ -26,7 +26,7 @@ The Chicago and New York City files also have the following two columns:
 Gender  
 Birth Year  
 
-<img src="3CityData.jpg" width="1200"/>
+<img src="https://github.com/CyndiMorris/assets/blob/main/3CityData.jpg" width="1200"/>
 
 
 The original files are much larger and messier, containing more columns and differed in format in many cases. Some data wrangling has been performed to condense the files to the above core six columns to make analysis and the evaluation of R skills more straightforward.  
