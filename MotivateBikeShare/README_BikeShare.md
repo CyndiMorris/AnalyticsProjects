@@ -1,4 +1,4 @@
-# Explore Bike Share Data - R Programming
+# Motivate Bike Share Data - R Programming
 
 ## Project Details  
 
