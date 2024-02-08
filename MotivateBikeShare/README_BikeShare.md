@@ -8,6 +8,8 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 This project will compare the system usage between three large cities: Chicago, New York City, and Washington, DC. Three questions will be asked and answered via exploration and visualizations.
 
+Note: .html file supplied due to R code not correctly in GitHub.
+
 ## The Datasets
 
 The datasets for this project were provided by [Motivate](https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. 
