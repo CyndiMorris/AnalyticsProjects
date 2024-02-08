@@ -34,7 +34,7 @@ The original files are much larger and messier, containing more columns and diff
 Note: I did some additional manipulations in Excel before readnig into Jupyter.  
 * Concatenated files for Chicago, New York City and Washington DC
 * Changed and unified column naming conventions 
-* Split Start Time and End Time into date and time columns
+* Split Start Time and End Time into separate date and time columns
 * Added Columns to df: City, Start.Date, Start.Time (hhmm), Weekday, End.Date, End.Time (hhmm), Trip.Duration (h:mm:ss), Trip.In.Sec, Age
   
 ## The Statistics Computed
