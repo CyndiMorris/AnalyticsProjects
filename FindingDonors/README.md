@@ -28,7 +28,7 @@ This project uses the following software and Python libraries:
 
 ## Starting the Project
 
-The `finding_donors` folder contains the necessary project files on the [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. The files for projects can be directly downloaded from this repo. Please make sure to use the most recent version of project files when completing the project!
+The `finding_donors` folder contains the necessary project files on [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. The files for projects can be directly downloaded from this repo. Please make sure to use the most recent version of project files when completing the project!
 
 This project contains three files:
 
