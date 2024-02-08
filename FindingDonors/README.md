@@ -36,7 +36,7 @@ This project contains three files:
 - `census.csv`: The project's dataset that will need to be loaded into the notebook.
 - `visuals.py`: A Python file containing visualization code that is run behind-the-scenes. Do not modify
 
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
+A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
 
 ## Submitting the Project
 
