@@ -64,6 +64,6 @@ Matplotlib
 Jupyter Notebook
 
 ## Files Used
-[chicago.csv](https://video.udacity-data.com/topher/2019/February/5c747ce1_chicago/chicago.csv)  
-[new_york_city.csv](https://video.udacity-data.com/topher/2019/February/5c747d01_new-york-city/new-york-city.csv)  
-[washington.csv](https://video.udacity-data.com/topher/2019/February/5c747d10_washington/washington.csv)  
+•	[twitter_api.py](https://video.udacity-data.com/topher/2018/November/5be5fb4c_twitter-api/twitter-api.py)
+•	[tweet_json.txt](https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt)
+
