@@ -36,4 +36,3 @@ This project contains three files:
 - `census.csv`: The project's dataset that will need to be loaded into the notebook.
 - `visuals.py`: A Python file containing visualization code that is run behind-the-scenes. Do not modify
 
-A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
