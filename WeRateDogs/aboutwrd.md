@@ -75,8 +75,8 @@ requests
 
 ## Files
 
-[twitter_api.py](https://video.udacity-data.com/topher/2018/November/5be5fb4c_twitter-api/twitter-api.py)
-[tweet_json.txt])https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt)
+[twitter_api.py](https://video.udacity-data.com/topher/2018/November/5be5fb4c_twitter-api/twitter-api.py)  
+[tweet_json.txt](https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt)
 
 Reading and writing json to a file
 
