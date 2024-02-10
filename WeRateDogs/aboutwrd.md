@@ -49,14 +49,11 @@ retweet and favorite counts has been provided.
 The WeRateDogs Twitter archive was run through a neural network that can classify the breeds of dogs*, resulting in a table full of image predictions (the top 
 three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to 
 four images).
- 
-**Image predictions**
 
-Tweet image prediction data
+ <img src="ImgPredictions.png"/>
 
 So for the last row in that table:
 
-tweet_id is the last part of the tweet URL after "status/" → https://twitter.com/dog_rates/status/889531135344209921(opens in a new tab)
 p1 is the algorithm's #1 prediction for the image in the tweet → golden retriever
 p1_conf is how confident the algorithm is in its #1 prediction → 95%
 p1_dog is whether or not the #1 prediction is a breed of dog → TRUE
