@@ -37,5 +37,5 @@ Supervised Learning Models
 ## Files
 
 [census.csv](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/census.csv)  
-visuals.py
+[visuals.py](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/visuals.py)
 
