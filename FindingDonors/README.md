@@ -16,17 +16,16 @@ Things learned by completing this project:
 
 ## Software and Packages
 
-[Python 2.7](https://www.python.org/download/releases/2.7/)
-[NumPy](http://www.numpy.org/)
-[Pandas](http://pandas.pydata.org/)
-[scikit-learn](http://scikit-learn.org/stable/)
-[matplotlib](http://matplotlib.org/)
+[Python 2.7](https://www.python.org/download/releases/2.7/)  
+[NumPy](http://www.numpy.org/)   
+[Pandas](http://pandas.pydata.org/)  
+[scikit-learn](http://scikit-learn.org/stable/)  
+[matplotlib](http://matplotlib.org/)  
 
-[Jupyter Notebook](http://ipython.org/notebook.html)
+[Jupyter Notebook](http://ipython.org/notebook.html)  
 
 ## Files
 
-finding_donors.ipynb  
 census.csv  
 visuals.py
 
