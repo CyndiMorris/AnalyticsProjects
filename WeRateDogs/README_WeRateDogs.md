@@ -17,7 +17,7 @@ Tasks in this project are as follows:
 * Cleaning data  
 * Storing, analyzing, and visualizing the wrangled data  
 * Wrangling report
-* Analysis and Visualization report
+* [Act Report](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/act_report.pdf)
 
 ## Datasets
 
