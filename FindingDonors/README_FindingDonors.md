@@ -13,6 +13,9 @@ Things learned by completing this project:
 - What each of several supervised learning algorithms accomplishes given a specific dataset.
 - How to investigate whether a candidate solution model is adequate for the problem.
 
+## Analysis and Statistics
+[Logarithmic transformation](https://en.wikipedia.org/wiki/Data_transformation_(statistics))
+
 ## Software and Packages
 
 [Python 2.7](https://www.python.org/download/releases/2.7/)  
