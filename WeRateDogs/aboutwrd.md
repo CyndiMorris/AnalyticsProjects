@@ -28,8 +28,6 @@ Tasks in this project are as follows:
 
 The WeRateDogs Twitter archive includes basic tweet data for over 5000 tweets. One column in the archive contains the text of each tweet, which was 
 used to extract rating, dog name, and dog stage information, enhancing the dataset. Out of the 5000+ tweets, 2356 have been filtered for containing ratings.
- 
-**Extracted data from tweet text**
 
 The provided data extraction was done programatically which may have introduced inaccuracies in the ratings, dog names, and dog stages columns. To utilize 
 this data for analysis and visualization, it's essential to assess and clean these columns to ensure their accuracy and consistency. Further information on 
@@ -48,7 +46,9 @@ retweet and favorite counts has been provided.
 
 **Image Predictions File**
 
-One more cool thing: I ran every image in the WeRateDogs Twitter archive through a neural network(opens in a new tab) that can classify breeds of dogs*. The results: a table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
+The WeRateDogs Twitter archive was run through a neural network that can classified the breeds of dogs*, resulting in a table full of image predictions (the top 
+three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to 
+four images).
  
 **Image predictions**
 
