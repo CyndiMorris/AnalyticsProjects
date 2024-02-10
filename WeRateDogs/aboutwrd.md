@@ -22,7 +22,7 @@ Tasks in this project are as follows:
 * Wrangling report
 * Analysis and Visualization report
 
-## Data:
+## Datasets
   
 twitter-archive-enhanced.csv: Given archived dataset for dog ratings scraped via tweet
 wrangle_act.ipynb: The Jupyter notebook consisting of all Data Wrangling steps
@@ -34,7 +34,7 @@ tweet_json.csv, tweet_json.txt and image-predictions.tsv created in intermediate
 analysis.ipynb: Jupyter notebook consisiting of basic initial analysis of the final twitter_archive_master.csv
 act_report.html: The final report in slides format of analysis.ipynb
 
-## Softwares needed:
+## Softwares and Packages
 
 Python
 pandas  
