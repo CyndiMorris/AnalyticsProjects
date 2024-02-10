@@ -41,7 +41,7 @@ The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and flo
 The Twitter archive lacks columns for retweet count and favorite count, but this data can be obtained from Twitter's API. A WeRateDogs Twitter archive with 
 retweet and favorite counts has been provided.
 
-**Image Predictions File**
+**Image Predictions**
 
 The WeRateDogs Twitter archive was run through a neural network that can classify the breeds of dogs*, resulting in a table full of image predictions (the top 
 three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to 
