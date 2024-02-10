@@ -32,9 +32,7 @@ Pandas
 [scikit-learn](http://scikit-learn.org/stable/)  
 [matplotlib](http://matplotlib.org/)  
 Jupyter Notebooks
-
-[Jupyter Notebook](http://ipython.org/notebook.html)  
-
+ 
 ## Files
 
 [census.csv](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/census.csv)  
