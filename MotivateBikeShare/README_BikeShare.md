@@ -19,7 +19,7 @@ What are the top 5 Start Stations for each city?
 
 Question 3:
 What are the user percentages for Customers and Subscirbers in each city?  
-Note: 'Customers' are users who pay as they go/need. 'Subscribers' use pre-paid usage plans.
+* **Note**: 'Customers' are users who pay as they go/need. 'Subscribers' use pre-paid usage plans.
 
 ## Datasets
 
