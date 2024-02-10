@@ -4,7 +4,7 @@ The main goal here is to wrangle WeRateDogs Twitter data, aiming to create inter
 libraries, data was gathered from various sources and formats, assessed for quality and tidiness, and then cleaned as part of the data wrangling process.
 
 Documentation of wrangling efforts includes showcasing analyses and visualizations using Python and its libraries. The dataset in focus is the tweet archive 
-of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs rates people's dogs with humorous comments, typically with ratings having a denominator of 
+of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRateDogs. WeRateDogs rates people's dogs with humorous comments, typically with ratings having a denominator of 
 10 but numerators often exceeding 10. This practice is based on the belief that "they're good dogs, Brent." WeRateDogs boasts over 4 million followers and 
 has garnered international media coverage.
 
