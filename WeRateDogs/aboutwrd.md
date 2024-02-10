@@ -23,6 +23,47 @@ Tasks in this project are as follows:
 * Analysis and Visualization report
 
 ## Datasets
+
+This project requires three datasets.
+
+Enhanced Twitter Archive
+
+The WeRateDogs Twitter archive includes basic tweet data for over 5000 tweets. One column in the archive contains the text of each tweet, which was 
+used to extract rating, dog name, and dog stage information, enhancing the dataset. Out of the 5000+ tweets, 2356 have been filtered for containing ratings.
+ 
+Extracted data from tweet text
+
+The provided data extraction was done programatically which may have introduced inaccuracies in the ratings, dog names, and dog stages columns. To utilize 
+this data for analysis and visualization, it's essential to assess and clean these columns to ensure their accuracy and consistency. Further information on 
+each of these columns can help in understanding the issues and devising appropriate cleaning strategies.
+ 
+Dogtionary from the WeRateDogs book
+
+The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and floof(er)
+insert image here
+
+Additional Data via the Twitter API
+
+Back to the basic-ness of Twitter archives: retweet count and favorite count are two of the notable column omissions. Fortunately, this additional data can be gathered by anyone from Twitter's API. Well, "anyone" who has access to data for the 3000 most recent tweets, at least. But you, because you have the WeRateDogs Twitter archive and specifically the tweet IDs within it, can gather this data for all 5000+. And guess what? You're going to query Twitter's API to gather this valuable data.
+
+Image Predictions File
+
+One more cool thing: I ran every image in the WeRateDogs Twitter archive through a neural network(opens in a new tab) that can classify breeds of dogs*. The results: a table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
+ 
+Image predictions
+Tweet image prediction data
+
+So for the last row in that table:
+
+tweet_id is the last part of the tweet URL after "status/" → https://twitter.com/dog_rates/status/889531135344209921(opens in a new tab)
+p1 is the algorithm's #1 prediction for the image in the tweet → golden retriever
+p1_conf is how confident the algorithm is in its #1 prediction → 95%
+p1_dog is whether or not the #1 prediction is a breed of dog → TRUE
+p2 is the algorithm's second most likely prediction → Labrador retriever
+p2_conf is how confident the algorithm is in its #2 prediction → 1%
+p2_dog is whether or not the #2 prediction is a breed of dog → TRUE
+etc.
+
   
 twitter-archive-enhanced.csv: Given archived dataset for dog ratings scraped via tweet
 wrangle_act.ipynb: The Jupyter notebook consisting of all Data Wrangling steps
