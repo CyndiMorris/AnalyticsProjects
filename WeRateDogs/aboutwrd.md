@@ -61,7 +61,7 @@ Column descriptions:
 **p2_conf**: how confident the algorithm is in its #2 prediction → 1%  
 **p2_dog**: whether or not the #2 prediction is a breed of dog → TRUE  
 
-## Softwares and Packages
+## Software and Packages
 
 Python  
 Pandas  
@@ -70,6 +70,7 @@ JSON
 Requests  
 Matplotlib  
 Seaborn  
+Jupyter Notebook
 
 
 ## Files
