@@ -16,13 +16,13 @@ Things learned by completing this project:
 ## Analysis and Statistics
 
 Supervised Learning Models  
-*Gaussian Naive Bayes (GaussianNB)  
-*Decision Trees  
-*Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)  
-*K-Nearest Neighbors (KNeighbors)  
-*Stochastic Gradient Descent Classifier (SGDC)  
-*Support Vector Machines (SVM)  
-*Logistic Regression  
+* Gaussian Naive Bayes (GaussianNB)  
+* Decision Trees  
+* Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)  
+* K-Nearest Neighbors (KNeighbors)  
+* Stochastic Gradient Descent Classifier (SGDC)  
+* Support Vector Machines (SVM)  
+* Logistic Regression  
 
 ## Software and Packages
 
