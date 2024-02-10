@@ -61,22 +61,10 @@ Column descriptions:
 **p2_conf**: how confident the algorithm is in its #2 prediction → 1%  
 **p2_dog**: whether or not the #2 prediction is a breed of dog → TRUE  
 
-
-  
-twitter-archive-enhanced.csv: Given archived dataset for dog ratings scraped via tweet
-wrangle_act.ipynb: The Jupyter notebook consisting of all Data Wrangling steps
-wrangle_report.html: The final report in slides format of the wrangle_act.ipynb
-twitter_archive_master.csv: Final cleaned tweets with all databases combined (containes no retweets or replies)
-final_retweets.csv: Final cleaned retweets
-final_replies.csv: Final cleaned replies
-tweet_json.csv, tweet_json.txt and image-predictions.tsv created in intermediate steps of Data Gathering
-analysis.ipynb: Jupyter notebook consisiting of basic initial analysis of the final twitter_archive_master.csv
-act_report.html: The final report in slides format of analysis.ipynb
-
 ## Softwares and Packages
 
 Python
-pandas  
+Pandas  
 NumPy  
 requests  
 tweepy  
@@ -85,7 +73,11 @@ matplotlib
 seaborn
 requests
 
-## References
+## Files
+
+[twitter_api.py](https://video.udacity-data.com/topher/2018/November/5be5fb4c_twitter-api/twitter-api.py)
+[tweet_json.txt])https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt)
+
 Reading and writing json to a file
 
 Unique Rating System of WeRateDogs
