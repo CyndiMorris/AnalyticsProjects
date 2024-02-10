@@ -46,7 +46,7 @@ retweet and favorite counts has been provided.
 
 **Image Predictions File**
 
-The WeRateDogs Twitter archive was run through a neural network that can classified the breeds of dogs*, resulting in a table full of image predictions (the top 
+The WeRateDogs Twitter archive was run through a neural network that can classify the breeds of dogs*, resulting in a table full of image predictions (the top 
 three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to 
 four images).
  
