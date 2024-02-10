@@ -26,7 +26,7 @@ Things learned by completing this project:
 
 ## Files
 
-finding_donors.ipynb
-census.csv
+finding_donors.ipynb  
+census.csv  
 visuals.py
 
