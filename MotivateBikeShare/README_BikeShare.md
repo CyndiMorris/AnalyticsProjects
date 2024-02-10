@@ -9,7 +9,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 This project will compare the system usage between three large cities: Chicago, New York City, and Washington, DC. Three questions will be asked and answered via exploration and visualizations.
 
-## The Statistics Computed
+## Analysis and Statistics
 
 Question 1:
 Which rental days are the most popular in each city?
