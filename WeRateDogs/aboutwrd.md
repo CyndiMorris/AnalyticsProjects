@@ -35,7 +35,7 @@ The provided data extraction was done programatically which may have introduced 
 this data for analysis and visualization, it's essential to assess and clean these columns to ensure their accuracy and consistency. Further information on 
 each of these columns can help in understanding the issues and devising appropriate cleaning strategies.
  
-**Dogtionary from the WeRateDogs book**
+**Dogtionary**
 
 The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and floof(er)
 insert image here
