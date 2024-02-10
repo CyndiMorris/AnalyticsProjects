@@ -63,15 +63,14 @@ Column descriptions:
 
 ## Softwares and Packages
 
-Python
+Python  
 Pandas  
 NumPy  
-requests  
-tweepy  
-json  
-matplotlib
-seaborn
-requests
+JSON
+Requests     
+Matplotlib
+Seaborn  
+
 
 ## Files
 
