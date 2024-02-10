@@ -10,7 +10,7 @@ has garnered international media coverage.
 
 ## Project Details
 
-Tasks in this project are as follows:  
+Tasks in this [project](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb)are as follows:  
 
 * Gathering data  
 * Assessing data  
