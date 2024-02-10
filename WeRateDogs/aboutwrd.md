@@ -1,15 +1,12 @@
 # Introduction
 
-Real-world data rarely comes clean. Here, the main goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses
-and visualizations. Using Python and its libraries, I have gathered data from a variety of sources and in a variety of formats, assessed its 
-quality and tidiness, and then cleaned it under the data wrangling process.
+The main goal here is to wrangle WeRateDogs Twitter data, aiming to create interesting and trustworthy analyses and visualizations. Using Python and its 
+libraries, data is gathered from various sources and formats, assessed for quality and tidiness, and then cleaned as part of the data wrangling process.
 
-Here, with documenting my wrangling efforts, I have also showcased them through analyses and visualizations using Python (and its libraries).
-
-The dataset that I have wrangled (and analyzed and visualized) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. 
-WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator 
-of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has 
-over 4 million followers and has received international media coverage.
+Documentation of wrangling efforts includes showcasing analyses and visualizations using Python and its libraries. The dataset in focus is the tweet archive 
+of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs rates people's dogs with humorous comments, typically with ratings having a denominator of 
+10 but numerators often exceeding 10. This practice is based on the belief that "they're good dogs, Brent." WeRateDogs boasts over 4 million followers and 
+has garnered international media coverage.
 
 ## Project Details
 
