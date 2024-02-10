@@ -37,9 +37,8 @@ each of these columns can help in understanding the issues and devising appropri
  
 **Dogtionary**
 
-The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and floof(er)
+The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and floof(er)  
 <img src="Dogtionary.png"/>
-insert image here
 
 **Twitter API**
 
