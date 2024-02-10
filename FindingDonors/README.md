@@ -1,11 +1,10 @@
 # Project: Finding Donors for CharityML - Supervised Learnnig
 
-## Project Details
 In this project, I used sklearn and supervised learning techniques on data collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
 
 Frist, I investigated the factors that affect the likelihood of charity donations being made. Then, I used a training and predicting pipeline to evaluate the accuracy and efficiency/speed of three supervised machine learning algorithms (names). I then proceed to fine tune the parameters of the algorithm that provides the highest donation yield. Finally, I also explored the impact of reducing number of features in data.
 
-## Project Highlights
+## Project Details
 This project is designed to become acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
 Things learned by completing this project:
