@@ -66,9 +66,9 @@ Column descriptions:
 Python  
 Pandas  
 NumPy  
-JSON
-Requests     
-Matplotlib
+JSON  
+Requests  
+Matplotlib  
 Seaborn  
 
 
