@@ -40,9 +40,10 @@ each of these columns can help in understanding the issues and devising appropri
 The Dogtionary explains the various stages of dog: doggo, pupper, puppo, and floof(er)
 insert image here
 
-**Additional Data via the Twitter API**
+**Twitter API**
 
-Back to the basic-ness of Twitter archives: retweet count and favorite count are two of the notable column omissions. Fortunately, this additional data can be gathered by anyone from Twitter's API. Well, "anyone" who has access to data for the 3000 most recent tweets, at least. But you, because you have the WeRateDogs Twitter archive and specifically the tweet IDs within it, can gather this data for all 5000+. And guess what? You're going to query Twitter's API to gather this valuable data.
+The Twitter archive lacks columns for retweet count and favorite count, but this data can be obtained from Twitter's API. A WeRateDogs Twitter archive with 
+retweet and favorite counts has been provided.
 
 **Image Predictions File**
 
