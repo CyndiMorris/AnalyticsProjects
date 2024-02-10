@@ -26,11 +26,12 @@ Supervised Learning Models
 
 ## Software and Packages
 
-[Python 2.7](https://www.python.org/download/releases/2.7/)  
-[NumPy](http://www.numpy.org/)   
-[Pandas](http://pandas.pydata.org/)  
+Python  
+NumPy   
+Pandas  
 [scikit-learn](http://scikit-learn.org/stable/)  
 [matplotlib](http://matplotlib.org/)  
+Jupyter Notebooks
 
 [Jupyter Notebook](http://ipython.org/notebook.html)  
 
