@@ -1,4 +1,4 @@
-# Project: Motivate Bike Share Data - R Programming
+# Project: Motivate Bike Share - R Programming
 * **Note:** Please click on File: Motivate_Bike_Share R >>> MotivateBikeShareR.md to see project.
 
 ## Project Details  
