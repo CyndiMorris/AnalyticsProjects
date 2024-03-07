@@ -21,16 +21,16 @@ Tasks completed in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProj
 ## Analysis and Statistics
 
 Question 1:
-What are the top 5 most common breeds?
-  (by tweet, retweet, favorite counts)
+What are the top 5 most common breeds?  
+  by tweet, retweet, favorite counts
 
 Question 2:
-What is the most popular dog stage?
-  (by tweet, retweet, favorite counts)
+What is the most popular dog stage?  
+  by tweet, retweet, favorite counts
 
 Question 3:
-What are the top 5 most popular dog names?
-  (by tweet)
+What are the top 5 most popular dog names?  
+  by tweet
 
 ## Datasets
 
