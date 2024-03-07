@@ -21,14 +21,16 @@ Tasks completed in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProj
 ## Analysis and Statistics
 
 Question 1:
-Which rental days are the most popular in each city?
+What are the top 5 most common breeds?
+  by tweet, retweet, favorite counts
 
 Question 2:
-What are the top 5 Start Stations for each city?
+What is the most popular dog stage?
+  by tweet, retweet, favorite counts
 
 Question 3:
-What are the user percentages for Customers and Subscirbers in each city?  
-* **Note**: 'Customers' are users who pay as they go/need. 'Subscribers' use pre-paid usage plans.
+What are the top 5 most popular dog names?
+  by tweet
 
 ## Datasets
 
