@@ -28,7 +28,7 @@ Steps performed:
 
 ## Dataset
 
-In this project, I used data collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
+The dataset was collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
 
 ## Software and Packages
 
