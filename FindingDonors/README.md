@@ -35,8 +35,8 @@ The dataset was collected from the U.S. census to help a fictitious charity orga
 Python  
 NumPy   
 Pandas  
-Scikit-learn
-Matplotlib 
+Scikit-learn  
+Matplotlib   
 Jupyter Notebooks
  
 ## Files
