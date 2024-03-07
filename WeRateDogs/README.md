@@ -18,6 +18,18 @@ Tasks completed in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProj
 * [Wrangling report](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/wrangle_report.pdf)
 * [Act Report](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/act_report.pdf)
 
+## Analysis and Statistics
+
+Question 1:
+Which rental days are the most popular in each city?
+
+Question 2:
+What are the top 5 Start Stations for each city?
+
+Question 3:
+What are the user percentages for Customers and Subscirbers in each city?  
+* **Note**: 'Customers' are users who pay as they go/need. 'Subscribers' use pre-paid usage plans.
+
 ## Datasets
 
 **Enhanced Twitter Archive**
