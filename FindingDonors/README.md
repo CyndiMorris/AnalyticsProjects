@@ -20,6 +20,12 @@ Supervised Learning Models
 * Support Vector Machines (SVM)  
 * Logistic Regression
 
+Steps performed:
+1. Investigated the factors influencing charitable donation likelihood.
+2. Established a training and prediction pipeline to evaluate the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM).
+3. Fine-tuned the parameters of the algorithm that generated the highest donation yield.
+4. Explored the impact of reducing the number of features in the dataset.
+
 Initially, I delved into the factors influencing the probability of charitable donations. Following that, I established a pipeline for training and predicting to assess the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM). Subsequently, I fine-tuned the parameters of the algorithm yielding the highest donation yield. Lastly, I investigated the effects of reducing the number of features in the dataset.
 
 ## Dataset
