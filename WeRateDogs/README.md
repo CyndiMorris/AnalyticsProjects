@@ -1,7 +1,8 @@
 # Project: WeRateDogs - Python, Data Wrangling & Analysis
 * **Note:** Please click on File: Motivate_Bike_Share R >>> MotivateBikeShareR.md to see project.
 
-The main goal here is to wrangle WeRateDogs Twitter data, aiming to create interesting and trustworthy analyses and visualizations. Using Python and its 
+## Project Details
+The main goal here is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. Using Python and its 
 libraries, data was gathered from various sources and formats, assessed for quality and tidiness, and then cleaned as part of the data wrangling process.
 
 Documentation of wrangling efforts includes showcasing analyses and visualizations using Python and its libraries. The dataset in focus is the tweet archive 
@@ -9,9 +10,7 @@ of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRat
 10 but numerators often exceeding 10. This practice is based on the belief that "they're good dogs, Brent." WeRateDogs boasts over 4 million followers and 
 has garnered international media coverage.
 
-## Project Details
-
-Tasks in this [project](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) are as follows:  
+Tasks completed in this [project](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb):  
 
 * Gathering data  
 * Assessing data  
