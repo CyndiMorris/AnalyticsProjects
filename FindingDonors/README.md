@@ -1,9 +1,5 @@
 # Project: Finding Donors for CharityML - Supervised Learnnig
 
-In this project, I used sklearn and supervised learning techniques on data collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
-
-Frist, I investigated the factors that affect the likelihood of charity donations being made. Then, I used a training and predicting pipeline to evaluate the accuracy and efficiency/speed of three supervised machine learning algorithms (Gradient Boosting Classifier, Random Forest Classifier, Support Vector Machines (SVM)). I then proceed to fine tune the parameters of the algorithm that provides the highest donation yield. Finally, I also explored the impact of reducing number of features in data.
-
 ## Project Details
 This project is designed to become acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
@@ -22,7 +18,13 @@ Supervised Learning Models
 * K-Nearest Neighbors (KNeighbors)  
 * Stochastic Gradient Descent Classifier (SGDC)  
 * Support Vector Machines (SVM)  
-* Logistic Regression  
+* Logistic Regression
+
+Initially, I delved into the factors influencing the probability of charitable donations. Following that, I established a pipeline for training and predicting to assess the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM). Subsequently, I fine-tuned the parameters of the algorithm yielding the highest donation yield. Lastly, I investigated the effects of reducing the number of features in the dataset.
+
+## Dataset
+
+In this project, I used data collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
 
 ## Software and Packages
 
