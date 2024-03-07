@@ -1,4 +1,5 @@
 # Project: WeRateDogs - Python, Data Wrangling & Analysis
+* **Note:** Please click on File: Motivate_Bike_Share R >>> MotivateBikeShareR.md to see project.
 
 The main goal here is to wrangle WeRateDogs Twitter data, aiming to create interesting and trustworthy analyses and visualizations. Using Python and its 
 libraries, data was gathered from various sources and formats, assessed for quality and tidiness, and then cleaned as part of the data wrangling process.
