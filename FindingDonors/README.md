@@ -26,8 +26,6 @@ Steps performed:
 3. Fine-tuned the parameters of the algorithm that generated the highest donation yield.
 4. Explored the impact of reducing the number of features in the dataset.
 
-Initially, I delved into the factors influencing the probability of charitable donations. Following that, I established a pipeline for training and predicting to assess the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM). Subsequently, I fine-tuned the parameters of the algorithm yielding the highest donation yield. Lastly, I investigated the effects of reducing the number of features in the dataset.
-
 ## Dataset
 
 In this project, I used data collected from the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause. 
