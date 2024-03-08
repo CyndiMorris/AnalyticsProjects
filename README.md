@@ -10,7 +10,7 @@ Practical Statistics
 Application of inferential statistics and probability in real-world scenarios. This involves using A/B tests and supervised learning models.  
 
 Data Wrangling  
-Data wrangling involves gathering, assessing, and cleaning data. This process uses Python to wrangle and prepare data for analysis.  
+<img src="https://github.com/CyndiMorris/assets/blob/main/Dwrangle.png" style="width:600px"> 
 
 Data Visualization with Python  
 Visualization elements are key to the data analysis process. Visualization helps professionals explore data at multiple levels to find insights and create a story.  
