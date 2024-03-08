@@ -47,7 +47,7 @@ data/log_data/2018/11/2018-11-13-events.json
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 ![image](https://github.com/CyndiMorris/AnalyticsProjects/assets/159286868/c6a04a61-e096-4a87-99fc-281e4c0f0539)  
 
-## Database - Star Schema
+## Data Modeling - Star Schema Database
 The Star Schema consists of:   
 * (1) fact table: **`songplays`**  
 * (4)dimension tables: **`songs`, `artists`, `users` and `time`**  
