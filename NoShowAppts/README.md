@@ -50,10 +50,9 @@ included in each row.
 
 ## Software and Packages
 
-Python  
-NumPy   
+Python     
 Pandas  
-Scikit-learn  
+NumPy 
 Matplotlib   
 Jupyter Notebooks
  
