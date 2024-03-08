@@ -9,7 +9,7 @@ Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/Analytics
 * ETL Pipeline with Python
   
 ## Dataset
-The first dataset is a subset of real data from the Million Song Dataset (opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. For example, here are filepaths to two files in this dataset.
+The first dataset is a subset of real data from the Million Song Dataset (opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. 
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
