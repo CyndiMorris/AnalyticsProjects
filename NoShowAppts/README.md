@@ -20,7 +20,7 @@ Skills demonstrated in this project include:
 2. Is there a correlation between no-shows and not receiving an SMS reminder?
 
 
-### Statistical and Analytical techniques were employed:
+### Statistical and Analytical techniques used:
 
 **Descriptive Statistics:**   
 Descriptive statistics, such as counts, percentages, and averages, were calculated to summarize key metrics, including the total number of appointments, the number of no-shows, and the distribution of appointments across weekdays.
