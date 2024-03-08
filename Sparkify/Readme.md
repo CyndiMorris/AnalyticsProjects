@@ -50,8 +50,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 ## Data Modeling - Star Schema Database
 The Star Schema consists of:   
 
-<img src="https://github.com/CyndiMorris/AnalyticsProjects/blob/main/Sparkify/assets/FactDimensionTables.png" style="width:650px">
-** Contain the primaray keys which will be used to reference back to the fact table.
+<img src="https://github.com/CyndiMorris/AnalyticsProjects/blob/main/Sparkify/assets/FactDimensionTables.png" style="width:650px">*Contain the primaray keys which will be used to reference back to the fact table.
 
 Why use a relational database: 
 - JOINS are required
