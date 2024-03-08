@@ -62,12 +62,12 @@ Why use a relational database:
 ## Software and Packages
 
 Python  
+Glob
 Pandas  
-NumPy  
+Psycopg2
+Sql_queries
 JSON  
-Requests  
-Matplotlib  
-Seaborn  
+SQL 
 Jupyter Notebook
 
 
