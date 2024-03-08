@@ -3,10 +3,11 @@
 ## Project Details
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. They'd like a Postgres database created with tables designed to optimize queries on song play analysis.  
 
-Skills demonstrated in this project:  
+Skills demonstrated in this project: 
+* ETL Pipeline with Python
 * Data Modeling with Postgres  
 * Create Star Schema Database
-* ETL Pipeline with Python
+
 
 ## ETL pipeline
 
