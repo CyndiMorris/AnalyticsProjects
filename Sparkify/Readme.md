@@ -9,12 +9,16 @@ Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/Analytics
 * ETL Pipeline with Python
   
 ## Dataset
-The first dataset is a subset of real data from the Million Song Dataset (opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. 
+The first dataset is a subset of real data from the Million Song Dataset (opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. For example, here are filepaths to two files in this dataset.
+
+data/song_data/A/B/C/TRABCEI128F424C983.json
+data/song_data/A/A/B/TRAABJL12903CDCF1A.json
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
+{"num_songs": 1, "artist_id": "ARJIE2Y1187B994AB7", "artist_latitude": null, "artist_longitude": null, "artist_location": "", "artist_name": "Line Renaud", "song_id": "SOUPIRU12A6D4FA1E1", "title": "Der Kleine Dompfaff", "duration": 152.92036, "year": 0}
 
-![image](https://github.com/CyndiMorris/AnalyticsProjects/assets/159286868/2d793bc6-3d94-48fd-812c-c82479e2ad2b)
+
 
 Project Instructions
 Schema for Song Play Analysis
