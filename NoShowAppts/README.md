@@ -4,15 +4,15 @@
 
 Analyze a dataset and then communicate the findings. 
 
-Skills Demonstrated in this project:
+Skills demonstrated in this project include:
 
-- Know all the steps involved in a typical data analysis process
-- Be comfortable posing questions that can be answered with a given dataset and then answering those questions
-- Know how to investigate problems in a dataset and wrangle the data into a format you can use
-- Have practice communicating the results of your analysis
-- Be able to use vectorized operations in `NumPy` and `Pandas` to speed up your data analysis code
-- Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
-- Know how to use `Matplotlib` to produce plots showing your findings
+* Proficiency in the steps of a typical data analysis process
+* Formulating and answering dataset-related inquiries
+* Wrangling data into a usable format for thorough investigation
+* Effective communication of analysis results
+* Optimization of data analysis through vectorized operations in NumPy and Pandas
+* Accessing data conveniently using Pandas' Series and DataFrame objects
+* Generating illustrative plots with Matplotlib to showcase analysis findings.
 
 ## Analysis and Statistics
 
