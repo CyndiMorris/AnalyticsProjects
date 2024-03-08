@@ -1,8 +1,8 @@
 # AnalyticsProjects
 
-Projects from Udacity's Data Analytics Nanodegree, part of WGU's Data Analytics degree program.
+Projects from Udacity's Data Analytics Nanodegree and completed as part of WGU's Data Analytics degree
 
-Skills learned:  
+**Skills learned:**    
 Introduction to Data Analysis    
 Data analysis process which includes wrangling, exploring, analyzing, and communicating data. Students will work with data in Python, using libraries like NumPy and Pandas.  
 
