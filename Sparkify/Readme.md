@@ -53,6 +53,13 @@ The Star Schema consists of:
 * (4)dimension tables: **`songs`, `artists`, `users` and `time`**  
 ** Contain the primaray keys which will be used to reference back to the fact table.
 
+Why use a relational database: 
+- JOINS are required
+- Structured data types
+- Enables efficient data aggregation   
+-  SQL proficiency is adequate for this analysis
+-  Data volume is not large enough to require big data solutions 
+
 
 ## Software and Packages
 
