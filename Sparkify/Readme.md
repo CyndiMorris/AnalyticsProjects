@@ -1,6 +1,6 @@
 The Star Schema consists of:   
-1 fact table: **`songplays`**  
-4 dimension tables: **`songs`, `artists`, `users` and `time`**  
+1 - fact table: **`songplays`**  
+4 - dimension tables: **`songs`, `artists`, `users` and `time`**  
 The latter consists of primaray keys which will be used to reference back to the fact table. 
 
 Down below, you can see the entity relationship diagram(ERD) in the form of a star schema. 
