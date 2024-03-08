@@ -61,13 +61,13 @@ Why use a relational database:
 
 ## Software and Packages
 
-Python  
-Glob  
+Python   
 Pandas  
-Psycopg2  
-Sql_queries  
-JSON  
+Psycopg2 
+Glob 
+JSON 
 SQL 
+Sql_queries   
 Jupyter Notebook  
 
 
