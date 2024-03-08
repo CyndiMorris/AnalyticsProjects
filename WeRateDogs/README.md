@@ -9,7 +9,7 @@ of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRat
 10 but numerators often exceeding 10. This practice is based on the belief that "they're good dogs, Brent." WeRateDogs boasts over 4 million followers and 
 has garnered international media coverage.
 
-Tasks completed in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project:  
+Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project:  
 
 * Gathering data  
 * Assessing data  
