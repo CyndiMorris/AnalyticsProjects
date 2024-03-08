@@ -35,7 +35,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 ## Database - Star Schema
 
 The schema used for this exercise is the Star Schema: 
-For this project, I will be using the star schema where we have 1 fact tables and 4 dimension table. The fact table will be called **`songplays`** while the 4 dimension tables will be called **`songs`, `artists`, `users` and `time`**. The latter consists of primaray keys which will be used to reference back to the fact table. 
+1 fact tables and 4 dimension table. The fact table will be called **`songplays`** while the 4 dimension tables will be called **`songs`, `artists`, `users` and `time`**. The latter consists of primaray keys which will be used to reference back to the fact table. 
 
 Down below, you can see the entity relationship diagram(ERD) in the form of a star schema. 
 
