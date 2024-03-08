@@ -1,3 +1,44 @@
+# Project: WeRateDogs - Python, Data Wrangling & Analysis
+
+## Project Details
+
+
+Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project:  
+
+
+
+## Analysis and Statistics
+
+Question 1:
+What are the top 5 most common breeds?  
+  * by tweet, retweet, favorite counts
+
+Question 2:
+What is the most popular dog stage?  
+  * by tweet, retweet, favorite counts
+
+Question 3:
+What are the top 5 most popular dog names?  
+  * by tweet
+
+## Datasets
+
+
+
+
+## Software and Packages
+
+Python  
+Pandas  
+NumPy  
+JSON  
+Requests  
+Matplotlib  
+Seaborn  
+Jupyter Notebook
+
+
+## Files
 
 
 
