@@ -48,5 +48,16 @@ included in each row.
 ● ‘Neighborhood’ indicates the location of the hospital.  
 ● ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.  
 
-### Step Four - Share Your Findings
-Once you have finished analyzing the data, create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. make sure that your report text is contained in Markdown cells to clearly distinguish your comments and findings from your code work. You should also feel free to use other tools and software to craft your final report, but make sure that you can submit your report as an HTML or PDF file so that it can be opened easily.
+## Software and Packages
+
+Python  
+NumPy   
+Pandas  
+Scikit-learn  
+Matplotlib   
+Jupyter Notebooks
+ 
+## Files
+
+[census.csv](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/census.csv)  
+[visuals.py](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/visuals.py)
