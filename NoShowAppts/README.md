@@ -52,7 +52,7 @@ included in each row.
 
 Python     
 Pandas  
-NumPy 
+NumPy    
 Matplotlib   
 Jupyter Notebooks
  
