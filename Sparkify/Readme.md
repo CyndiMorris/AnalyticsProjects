@@ -82,36 +82,6 @@ Jupyter Notebook
 **`test.ipynb`:** Python Jupyter Notebook that was used to test that data was loaded properly.  
 
 
-
-
-A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. 
-
-They'd like a Postgres database created with tables designed to optimize queries on song play analysis
-
-
-
-
-The Star Schema consists of:   
-* (1) fact table: **`songplays`**  
-* (4)dimension tables: **`songs`, `artists`, `users` and `time`**  
-** Contain the primaray keys which will be used to reference back to the fact table.
-
-
-Down below, you can see the entity relationship diagram(ERD) in the form of a star schema. 
-
-On why to use a relational database for this case:
-
-- The data types are structured
-- The amount of data we need to analyze is not big enough to require big data related solutions.
-- This structure will enable the analysts to aggregate the data efficiently
-- Ability to use SQL that is more than enough for this kind of analysis
-- We need to use JOINS
-
-
-
-
-
-
 Project Instructions
 Schema for Song Play Analysis
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
