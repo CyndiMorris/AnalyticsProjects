@@ -51,34 +51,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 The Star Schema consists of:   
 
 <img src="https://github.com/CyndiMorris/AnalyticsProjects/blob/main/Sparkify/assets/FactDimensionTables.png" style="width:650px">
-Fact Table:  
-1. songplays - records in log data associated with song plays
- * songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
-  
-Dimension Tables:  
-1. songs- songs in music database  
- * song_id, title, artist_id, year, duration
-2. artists - artists in music database  
- * artist_id, name, location, latitude, longitude  
-3. users - users in the app  
- * user_id, first_name, last_name, gender, level  
-4. time - timestamps of records in songplays broken down into specific units  
- * start_time, hour, day, week, month, year, weekday  
-
 ** Contain the primaray keys which will be used to reference back to the fact table.
-
-Fact Table
-1. songplays - records in log data associated with song plays i.e. records with page  
-   **`NextSong`**  
- * 
-Dimension Tables
-users - 
-
-songs - 
-
-artists - 
-
-time - 
 
 Why use a relational database: 
 - JOINS are required
