@@ -1,6 +1,6 @@
 # Project: Sparkify - Data Modeling, Postgres, ETL
 
-### Project Details
+## Project Details
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. They'd like a Postgres database created with tables designed to optimize queries on song play analysis
 
 Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project: 
@@ -8,7 +8,7 @@ Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/Analytics
 * Create Star Schema Database
 * ETL Pipeline with Python
   
-### Dataset
+## Dataset
 The first dataset is a subset of real data from the Million Song Dataset(opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. For example, here are filepaths to two files in this dataset.
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
