@@ -7,8 +7,9 @@ They'd like a Postgres database created with tables designed to optimize queries
 
 Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project: 
 * Data Modeling with Postgres
-* ETL Pipeline Development
-* Understanding of Star Schema
+* Create Star Schema Database
+* ETL Pipeline with Python
+  
 
 
 ### Project Description
