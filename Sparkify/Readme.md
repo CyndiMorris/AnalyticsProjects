@@ -64,11 +64,11 @@ Why use a relational database:
 
 Python   
 Pandas  
-Psycopg2 
-Glob 
-JSON 
-SQL 
-Sql_queries   
+Psycopg2   
+Glob   
+JSON   
+SQL   
+Sql_queries     
 Jupyter Notebook  
 
 
