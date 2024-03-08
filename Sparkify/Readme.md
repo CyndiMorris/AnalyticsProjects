@@ -40,11 +40,16 @@ and 4-dimensional tables *songs*, *artists*, *users* and *time*, each with a pri
 
 On why to use a relational database for this case:
 
-- The data types are structured (we know before-hand the structure of the jsons we need to analyze, and where and how to extract and transform each field)
+- The data types are structured
 - The amount of data we need to analyze is not big enough to require big data related solutions.
 - This structure will enable the analysts to aggregate the data efficiently
 - Ability to use SQL that is more than enough for this kind of analysis
-- We need to use JOINS for this scenario
+- We need to use JOINS
+
+
+
+
+
 
 Project Instructions
 Schema for Song Play Analysis
