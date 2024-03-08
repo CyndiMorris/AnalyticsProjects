@@ -32,6 +32,19 @@ data/log_data/2018/11/2018-11-13-events.json
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 ![image](https://github.com/CyndiMorris/AnalyticsProjects/assets/159286868/c1b132c4-c74d-4e98-b0cc-6dcf23ea966d)
 
+## Database Schema
+
+The schema used for this exercise is the Star Schema: 
+There is one main fact table containing all the measures associated with each event *songplays*, 
+and 4-dimensional tables *songs*, *artists*, *users* and *time*, each with a primary key that is being referenced from the fact table.
+
+On why to use a relational database for this case:
+
+- The data types are structured (we know before-hand the structure of the jsons we need to analyze, and where and how to extract and transform each field)
+- The amount of data we need to analyze is not big enough to require big data related solutions.
+- This structure will enable the analysts to aggregate the data efficiently
+- Ability to use SQL that is more than enough for this kind of analysis
+- We need to use JOINS for this scenario
 
 Project Instructions
 Schema for Song Play Analysis
