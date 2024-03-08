@@ -1,4 +1,4 @@
-# Project: Finding Donors for CharityML - Supervised Learning
+# Project: Finding Donors for CharityML - Supervised Learning 
 
 ## Project Details
 The [Finding Donors for CharityML](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/FindingDonors/FindingDonors.ipynb) project is designed to become acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
