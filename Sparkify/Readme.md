@@ -8,19 +8,18 @@ Skills demonstrated in this project:
 * Create Star Schema Database
 * ETL Pipeline with Python
 
-## Analysis and Statistics
+## ETL pipeline
 
-Question 1:
-What are the top 5 most common breeds?  
-  * by tweet, retweet, favorite counts
+  ETL.py will work as following for processing the data:
+- Connect to the sparkify datase. And it will drop and create all the tables.
+- Parse out each json file and load all of the files into dataframe.
+- Song_data and Log_data will be loaded into the fact and dimension tables.
 
-Question 2:
-What is the most popular dog stage?  
-  * by tweet, retweet, favorite counts
+Files will be excuted in the following orders:
 
-Question 3:
-What are the top 5 most popular dog names?  
-  * by tweet
+- 1.create_tables.py
+- 2.etl.py
+- 3.test.ipynb
 
 ## Datasets
 ### Song Dataset
