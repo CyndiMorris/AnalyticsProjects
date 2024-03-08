@@ -2,16 +2,7 @@
 
 ## Project Details
 
-In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries `NumPy`, `Pandas`, and `Matplotlib` to make your analysis easier.
-
-Prepare for this project with: [Intro to Data Analysis](https://classroom.udacity.com/courses/ud170-nd)
-
-## Analysis and Statistics
-
-In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
-
-You'll use the Python libraries `NumPy`, `Pandas`, and `Matplotlib`, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
-
+Analyze a dataset and then communicate the findings. 
 
 Skills Demonstrated in this project:
 
@@ -22,6 +13,13 @@ Skills Demonstrated in this project:
 - Be able to use vectorized operations in `NumPy` and `Pandas` to speed up your data analysis code
 - Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
 - Know how to use `Matplotlib` to produce plots showing your findings
+
+## Analysis and Statistics
+
+
+
+
+
 
 ## Introduction
 
