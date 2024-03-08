@@ -16,9 +16,21 @@ Skills demonstrated in this project include:
 
 ## Analysis and Statistics
 
+1. Which day(s) are clients more likely to be a no-show?
+2. Is there a correlation between no-shows and not receiving an SMS reminder?
 
 
+Various statistical and analytical techniques were employed to analyze the dataset and address the research questions:
 
+Descriptive Statistics: Descriptive statistics, such as counts, percentages, and averages, were calculated to summarize key metrics, including the total number of appointments, the number of no-shows, and the distribution of appointments across weekdays.
+
+Data Visualization: Visualizations, including bar charts, pie charts, and stacked bar charts, were utilized to present the findings visually and facilitate the interpretation of trends and patterns in the data.
+
+Comparative Analysis: Comparative analysis was conducted to compare the proportion of no-shows among different weekdays and between patients who received SMS reminders and those who did not. This involved calculating percentages and conducting statistical tests to determine significant differences.
+
+Correlation Analysis: Correlation analysis was performed to assess the relationship between receiving SMS reminders and appointment attendance. This involved examining the correlation coefficient and conducting hypothesis testing to determine the strength and significance of the association.
+
+Summarization Techniques: Techniques such as summarizing weekday statistics and calculating percentages were used to provide a comprehensive overview of appointment no-show patterns and the effectiveness of SMS reminders.
 
 
 ## Introduction
