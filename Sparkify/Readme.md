@@ -5,7 +5,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/WeRateDogs/WeRateDogs.ipynb) project:  
 * Data Modeling with Postgres  
-* Understanding of Star Schema  
+* Create Star Schema Database
 * ETL Pipeline with Python
 
 ## Analysis and Statistics
