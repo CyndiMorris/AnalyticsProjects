@@ -74,12 +74,12 @@ Jupyter Notebook
 
 
 ## Files
-**`data folder`:** where all needed jsons reside: log_data and song_data.
-**`create_tables.py`:** Python script recreates the database and tables used to store the data.
-**`etl.ipynb`:** Python Jupyter Notebook used to explore the data and test the ETL process.
-**`etl.py`:** Python script reads in the Log and Song data files, processes and inserts data into the database.
-**`sql_queries.py`:** Python script that defines all the SQL statements used in this project.
-**`test.ipynb`:** Python Jupyter Notebook that was used to test that data was loaded properly.
+**`data folder`:** where all needed jsons reside: log_data and song_data.  
+**`create_tables.py`:** Python script recreates the database and tables used to store the data.  
+**`etl.ipynb`:** Python Jupyter Notebook used to explore the data and test the ETL process.  
+**`etl.py`:** Python script reads in the Log and Song data files, processes and inserts data into the database.  
+**`sql_queries.py`:** Python script that defines all the SQL statements used in this project.  
+**`test.ipynb`:** Python Jupyter Notebook that was used to test that data was loaded properly.  
 
 
 
