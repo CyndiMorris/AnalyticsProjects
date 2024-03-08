@@ -1,4 +1,4 @@
-# Project: WeRateDogs - Python, Data Wrangling & Analysis
+# Project: WeRateDogs - Python, Data Wrangling & Analysis 
 
 ## Project Details
 The main goal here is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. Using Python and its 
