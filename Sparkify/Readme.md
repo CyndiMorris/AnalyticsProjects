@@ -50,7 +50,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 ## Data Modeling - Star Schema Database
 The Star Schema consists of:   
 
-<img src="https://github.com/CyndiMorris/AnalyticsProjects/blob/main/Sparkify/assets/FactDimensionTables.png" style="width:800px">
+<img src="https://github.com/CyndiMorris/AnalyticsProjects/blob/main/Sparkify/assets/FactDimensionTables.png" style="width:650px">
 Fact Table:  
 1. songplays - records in log data associated with song plays
  * songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
