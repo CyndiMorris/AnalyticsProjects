@@ -56,7 +56,7 @@ The Star Schema consists of:
 Fact Table
 1. songplays - records in log data associated with song plays i.e. records with page  
    **`NextSong`**  
-* songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
+   * songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 Dimension Tables
 users - users in the app
 user_id, first_name, last_name, gender, level
