@@ -8,13 +8,7 @@ Skills demonstrated in the [WeRateDogs](https://github.com/CyndiMorris/Analytics
 * Create Star Schema Database
 * ETL Pipeline with Python
   
-
-
-### Project Description
-In this project, you'll apply what you've learned on data modeling with Postgres and build an ETL pipeline using Python. To complete the project, you will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
-
-### Project Datasets
-#### Song Dataset
+### Dataset
 The first dataset is a subset of real data from the Million Song Dataset(opens in a new tab). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. For example, here are filepaths to two files in this dataset.
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
