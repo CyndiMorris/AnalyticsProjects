@@ -49,14 +49,15 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 ## Data Modeling - Star Schema Database
 The Star Schema consists of:   
-* (1) fact table: **`songplays`**  
+* (1) fact table: **`songplays`** - records in log data associated with song plays
+  *  songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 * (4)dimension tables: **`songs`, `artists`, `users` and `time`**  
 ** Contain the primaray keys which will be used to reference back to the fact table.
 
 Fact Table
 1. songplays - records in log data associated with song plays i.e. records with page  
    **`NextSong`**  
- * songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
+ * 
 Dimension Tables
 users - users in the app
 user_id, first_name, last_name, gender, level
