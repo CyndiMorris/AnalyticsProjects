@@ -1,22 +1,19 @@
-# Investigate a Dataset
+# Project: No Show Appointments - Python, Investigate a Dataset
 
-### Udacity Data Analyst Nanodegree (DAND) - Term 1 - Project 3
-
-## Project Overview
+## Project Details
 
 In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries `NumPy`, `Pandas`, and `Matplotlib` to make your analysis easier.
 
 Prepare for this project with: [Intro to Data Analysis](https://classroom.udacity.com/courses/ud170-nd)
 
-## Why this Project?
+## Analysis and Statistics
 
 In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
 
 You'll use the Python libraries `NumPy`, `Pandas`, and `Matplotlib`, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
-## What will I learn?
 
-After completing the project, you will:
+Skills Demonstrated in this project:
 
 - Know all the steps involved in a typical data analysis process
 - Be comfortable posing questions that can be answered with a given dataset and then answering those questions
