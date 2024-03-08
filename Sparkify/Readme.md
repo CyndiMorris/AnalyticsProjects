@@ -32,7 +32,7 @@ data/log_data/2018/11/2018-11-13-events.json
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 ![image](https://github.com/CyndiMorris/AnalyticsProjects/assets/159286868/c1b132c4-c74d-4e98-b0cc-6dcf23ea966d)
 
-## Database Schema
+## Database - Star Schema
 
 The schema used for this exercise is the Star Schema: 
 There is one main fact table containing all the measures associated with each event *songplays*, 
