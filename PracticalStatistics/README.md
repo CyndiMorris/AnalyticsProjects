@@ -14,8 +14,16 @@ Skills demonstrated in this project include:
 
 ## Analysis and Statistics
 
-
-
+1. What is the probability of user conversion for each webpage design?
+2. Is there a significant difference in conversion rates between the new and old webpage designs?
+3. How does the probability of receiving the new webpage design compare to the old design?
+4. What are the null and alternative hypotheses for comparing conversion rates between the old and new webpage designs?
+5. How do we simulate samples to perform hypothesis testing for conversion rates?
+6. What proportion of the simulated sample differences in conversion rates is greater than the actual difference observed in the data?
+7. What are the z-score and p-value obtained from the regression analysis, and what do they signify regarding webpage conversion rates?
+8. How does the inclusion of additional factors, such as user country, impact conversion rate analysis?
+9. Is there a significant interaction between webpage type and user country regarding conversion rates?
+10. Based on the analysis results, what recommendations can be made regarding the implementation of the new webpage design?
 
 ### Statistical and Analytical techniques used:
 
