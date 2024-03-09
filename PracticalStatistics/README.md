@@ -5,13 +5,12 @@ This project utilizes Probability theory, A/B Testing, and Regression analysis t
 
 Skills demonstrated in this project include:
 
-* Proficiency in the steps of a typical data analysis process
-* Formulating and answering dataset-related inquiries
-* Wrangling data into a usable format for thorough investigation
-* Effective communication of analysis results
-* Optimization of data analysis through vectorized operations in NumPy and Pandas
-* Accessing data conveniently using Pandas' Series and DataFrame objects
-* Generating illustrative plots with Matplotlib to showcase analysis findings.
+*Proficiency in probability theory, A/B testing, and regression analysis
+*Formulating hypotheses and conducting hypothesis testing
+*Data wrangling and manipulation using Pandas
+*Statistical modeling and interpretation using statsmodels
+*Visualization of analysis results using Matplotlib
+
 
 ## Analysis and Statistics
 
