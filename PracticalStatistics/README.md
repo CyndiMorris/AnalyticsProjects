@@ -14,6 +14,8 @@ Skills demonstrated in this project include:
 
 ## Analysis and Statistics
 
+**Q & A:**
+
 1.  What is the probability of user conversion for each webpage design?
 2.  Is there a significant difference in conversion rates between the new and old webpage designs?
 3.  How does the probability of receiving the new webpage design compare to the old design?
