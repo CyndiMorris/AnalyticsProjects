@@ -23,7 +23,7 @@ Skills demonstrated in this project include:
 Calculating key metrics such as mean, median, and standard deviation to summarize conversion rates, page views, and user demographics.
 Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.
 
-**Probability:**
+**Probability:**  
 Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.  
 
 **A/B Testing:**  
@@ -32,11 +32,9 @@ Conducting A/B tests to compare the performance of different webpage designs and
 **Regression Analysis:**  
 Performing regression analysis to investigate the relationship between variables and predict conversion outcomes based on factors such as webpage type and user demographics.
 
-**Data Visualization:**
+**Data Visualization:**  
 Utilizing various visualizations including histograms, scatter plots, and box plots to graphically present the data and elucidate distributions and relationships between variables.
-
-**Probability:**
-Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.  
+  
 
 ## Dataset
 
