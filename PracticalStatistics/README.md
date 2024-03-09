@@ -14,17 +14,6 @@ Skills demonstrated in this project include:
 
 ## Analysis and Statistics
 
-**Main Dataset (ab_data.csv):**
-* This dataset contains information about user interactions with the old and new webpage designs.  
-* Key columns include user ID, timestamp, group (control or treatment), landing page type (old or new), and conversion status (converted or not).  
-* It was used extensively for A/B testing, probability analysis, regression modeling, and hypothesis testing.  
-
-**Additional Dataset (countries.csv):**
-* This dataset includes information about the country of each user.
-* It consists of user IDs and corresponding country codes.
-* The dataset was merged with the main dataset to analyze the impact of user country on webpage conversion rates.
-* Used in regression analysis to explore potential interactions between webpage type and user country.
-
 ### **Q & A:**
 
 1.  What is the probability of user conversion for each webpage design?
@@ -57,8 +46,18 @@ Performing regression analysis to investigate the relationship between variables
 Utilizing various visualizations including histograms, scatter plots, and box plots to graphically present the data and elucidate distributions and relationships between variables.
   
 
-## Dataset
+## Dataset 
 
+**Main Dataset (ab_data.csv):**
+* This dataset contains information about user interactions with the old and new webpage designs.  
+* Key columns include user ID, timestamp, group (control or treatment), landing page type (old or new), and conversion status (converted or not).  
+* It was used extensively for A/B testing, probability analysis, regression modeling, and hypothesis testing.  
+
+**Additional Dataset (countries.csv):**
+* This dataset includes information about the country of each user.
+* It consists of user IDs and corresponding country codes.
+* The dataset was merged with the main dataset to analyze the impact of user country on webpage conversion rates.
+* Used in regression analysis to explore potential interactions between webpage type and user country.
 
 
 ## Software and Packages
