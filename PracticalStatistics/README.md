@@ -1,4 +1,4 @@
-# Project: Practical Statistics - Python Probability, A/B Testing, Regression 
+# Project: Practical Statistics - Probability, A/B Testing, Regression 
 
 ## Project Details
 
