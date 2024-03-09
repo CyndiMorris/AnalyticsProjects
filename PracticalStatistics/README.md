@@ -5,11 +5,11 @@ This project utilizes Probability theory, A/B Testing, and Regression analysis t
 
 Skills demonstrated in this project include:
 
-*Proficiency in probability theory, A/B testing, and regression analysis  
-*Formulating hypotheses and conducting hypothesis testing  
-*Data wrangling and manipulation using Pandas  
-*Statistical modeling and interpretation using statsmodels  
-*Visualization of analysis results using Matplotlib  
+* Proficiency in probability theory, A/B testing, and regression analysis  
+* Formulating hypotheses and conducting hypothesis testing  
+* Data wrangling and manipulation using Pandas  
+* Statistical modeling and interpretation using statsmodels  
+* Visualization of analysis results using Matplotlib  
 
 
 ## Analysis and Statistics
