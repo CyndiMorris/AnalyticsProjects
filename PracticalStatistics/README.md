@@ -50,7 +50,7 @@ Utilizing various visualizations including histograms, scatter plots, and box pl
 
 **Main Dataset (ab_data.csv):**
 * This dataset contains information about user interactions with the old and new webpage designs.  
-* Key columns include user ID, timestamp, group (control or treatment), landing page type (old or new), and conversion status (converted or not).  
+* Key columns: user ID, timestamp, group (control or treatment), landing page type (old or new), and conversion status (converted or not).  
 * It was used extensively for A/B testing, probability analysis, regression modeling, and hypothesis testing.  
 
 **Additional Dataset (countries.csv):**
