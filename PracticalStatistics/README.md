@@ -19,21 +19,24 @@ Skills demonstrated in this project include:
 
 ### Statistical and Analytical techniques used:
 
-**Descriptive Statistics:**   
-Descriptive statistics, such as counts, percentages, and averages, were calculated to summarize key metrics, including the total number of appointments, the number of no-shows, and the distribution of appointments across weekdays.
+**Descriptive Statistics:**  
+Calculating key metrics such as mean, median, and standard deviation to summarize conversion rates, page views, and user demographics.
+Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.
 
-**Data Visualization:**   
-Visualizations, including bar charts, pie charts, and stacked bar charts, were utilized to present the findings visually and facilitate the interpretation of trends and patterns in the data.
+**Probability:**
+Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.  
 
-**Comparative Analysis:**   
-Comparative analysis was conducted to compare the proportion of no-shows among different weekdays and between patients who received SMS reminders and those who did not. This involved calculating percentages and conducting statistical tests to determine significant differences.
+**A/B Testing:**  
+Conducting A/B tests to compare the performance of different webpage designs and determine their impact on user conversions.
 
-**Correlation Analysis:**   
-Correlation analysis was performed to assess the relationship between receiving SMS reminders and appointment attendance. This involved examining the correlation coefficient and conducting hypothesis testing to determine the strength and significance of the association.
+**Regression Analysis:**  
+Performing regression analysis to investigate the relationship between variables and predict conversion outcomes based on factors such as webpage type and user demographics.
 
-**Summarization Techniques:**   
-Techniques such as summarizing weekday statistics and calculating percentages were used to provide a comprehensive overview of appointment no-show patterns and the effectiveness of SMS reminders.
+**Data Visualization:**
+Utilizing various visualizations including histograms, scatter plots, and box plots to graphically present the data and elucidate distributions and relationships between variables.
 
+**Probability:**
+Employing probability theory to analyze the likelihood of events occurring and to make informed predictions about user behavior.  
 
 ## Dataset
 
