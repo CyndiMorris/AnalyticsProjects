@@ -62,13 +62,13 @@ Utilizing various visualizations including histograms, scatter plots, and box pl
 
 ## Software and Packages
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-StatsModels 
-Jupyter Notebooks
+Python  
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+StatsModels   
+Jupyter Notebooks  
  
 ## Files
 
