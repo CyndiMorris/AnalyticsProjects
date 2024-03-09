@@ -1,7 +1,8 @@
 # Project: Practical Statistics - Probability, A/B Testing, Regression 
 
 ## Project Details
-This project utilizes Probability theory, A/B Testing, and Regression analysis to evaluate the impact of a new e-commerce webpage design on user conversions compared to an existing version. The aim is to ascertain whether the proposed changes yield a significant improvement in conversion rates. By leveraging these analytical approaches, decision-making processes can be informed and digital strategies optimized to enhance user engagement and drive business growth.
+This project utilizes Probability theory, A/B Testing, and Regression analysis to evaluate the impact of a new e-commerce webpage design on user conversions compared to an existing version. The aim is to ascertain whether the proposed changes yield a significant improvement in conversion rates and to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
 Skills demonstrated in this project include:
 
 * Proficiency in the steps of a typical data analysis process
