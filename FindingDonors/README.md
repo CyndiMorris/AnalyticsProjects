@@ -44,7 +44,7 @@ Things learned by completing this project:
 
 **Steps performed:**
 1. Investigated the factors influencing charitable donation likelihood.
-2. Established a training and prediction pipeline to evaluate the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM).
+2. Established a training and prediction pipeline to evaluate the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM) (were selected).
 3. Fine-tuned the parameters of the algorithm that generated the highest donation yield.
 4. Explored the impact of reducing the number of features in the dataset.
 
