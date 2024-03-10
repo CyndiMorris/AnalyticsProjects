@@ -18,9 +18,9 @@ Skills demonstrated in this project:
 
 Files will be excuted in the following orders:
 
-- 1.create_tables.py
-- 2.etl.py
-- 3.test.ipynb
+1. Run ***create_tables.py*** to create the database and tables.
+2. Run ***etl.py*** to process for loading, extracting and inserting the data.
+3. Run ***test.ipynb*** to confirm the creation of database and columns.
 
 ## Datasets
 ### Song Dataset
