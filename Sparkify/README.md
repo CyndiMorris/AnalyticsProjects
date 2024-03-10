@@ -6,7 +6,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 Skills demonstrated in this project: 
 * ETL Pipeline with Python
 * Data Modeling with Postgres  
-* Create Star Schema Database
+* Star Schema Database creation
 
 
 ## ETL pipeline
