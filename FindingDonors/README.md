@@ -11,7 +11,7 @@ Things learned by completing this project:
 
 ## Analysis and Statistics
 
-### Q & A:
+### Tasks & Questions:
 
 **Naive Predictor Performance:**  
 1. What would the model's accuracy and F-score be if we chose a model that always predicted an individual made more than $50,000?  
