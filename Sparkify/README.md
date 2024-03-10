@@ -8,6 +8,11 @@ Skills demonstrated in this project:
 * Data Modeling with Postgres  
 * Star Schema Database creation
 
+## How to Run
+
+1. Run ***create_tables.py*** to create the database and tables.
+2. Run ***etl.py*** to process for loading, extracting and inserting the data.
+3. Run ***test.ipynb*** to confirm the creation of database and columns.
 
 ## ETL Pipeline
 
