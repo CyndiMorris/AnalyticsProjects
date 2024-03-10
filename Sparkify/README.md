@@ -21,12 +21,6 @@ Skills demonstrated in this project:
 - Parse out each json file and load all of the files into dataframe.
 - Song_data and Log_data will be loaded into the fact and dimension tables.
 
-Files will be excuted in the following orders:
-
-1. ***create_tables.py*** to create the database and tables.
-2. ***etl.py*** to process for loading, extracting and inserting the data.
-3. ***test.ipynb*** to confirm the creation of database and columns.
-
 ## Datasets
 ### Song Dataset
 
