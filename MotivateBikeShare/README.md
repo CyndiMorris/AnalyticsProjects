@@ -1,4 +1,4 @@
-# Project: Motivate Bike Share - R Programming 
+# Project: Motivate Bike Share - R, Analysis & Statistics
 
 ## Project Details  
 
