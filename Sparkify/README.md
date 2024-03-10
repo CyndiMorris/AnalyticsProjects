@@ -12,7 +12,7 @@ Skills demonstrated in this project:
 ## ETL Pipeline
 
   ETL.py will work as following for processing the data:
-- Connect to the sparkify datase. And it will drop and create all the tables.
+- Connect to the sparkify datase dropping and create all the tables.
 - Parse out each json file and load all of the files into dataframe.
 - Song_data and Log_data will be loaded into the fact and dimension tables.
 
