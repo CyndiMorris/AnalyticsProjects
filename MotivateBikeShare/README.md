@@ -17,6 +17,8 @@ This project will compare the system usage between three large cities: Chicago, 
 3. What are the user percentages for Customers and Subscirbers in each city?    
    **Note**: 'Customers' are users who pay as they go/need. 'Subscribers' use pre-paid usage plans.  
 
+### Statistical and Analytical techniques used:
+
 **Descriptive Statistics:**  
 Summary statistics such as counts, frequencies, and percentages were used to describe the data and understand its distribution.  
 **Tables and Cross-tabulations:**  
