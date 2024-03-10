@@ -1,4 +1,4 @@
-# Project: Motivate Bike Share - R, Analysis & Statistics
+# Project: Motivate Bike Share - R, Analysis & Statistics 
 
 ## Project Details  
 
