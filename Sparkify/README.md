@@ -9,7 +9,7 @@ Skills demonstrated in this project:
 * Star Schema Database creation
 
 
-## ETL pipeline
+## ETL Pipeline
 
   ETL.py will work as following for processing the data:
 - Connect to the sparkify datase. And it will drop and create all the tables.
