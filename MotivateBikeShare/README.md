@@ -21,12 +21,16 @@ This project will compare the system usage between three large cities: Chicago, 
 
 **Descriptive Statistics:**  
 Summary statistics such as counts, frequencies, and percentages were used to describe the data and understand its distribution.  
+
 **Tables and Cross-tabulations:**  
 Tables were created to display counts or frequencies of categorical variables, allowing for comparisons across different categories.  
+
 **Visualization:**  
 Graphs and charts, such as bar charts and pie charts, were utilized to visually represent the data and identify patterns or trends.  
+
 **Subset Analysis:**  
 Data subsets were created to focus on specific aspects of the analysis, such as filtering data by city or user type.  
+
 **Percentages and Proportions:**  
 Percentages were calculated to understand the relative proportions of different categories within the data, such as the percentage of Customers and Subscribers.  
 
