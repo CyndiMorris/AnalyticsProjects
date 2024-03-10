@@ -42,7 +42,7 @@ Things learned by completing this project:
 1. How does the final model's performance on reduced data using only five features compare to the full data model's performance?  
 2. Would you consider using the reduced data as the training set if training time was a factor?  
 
-Steps performed:
+**Steps performed:**
 1. Investigated the factors influencing charitable donation likelihood.
 2. Established a training and prediction pipeline to evaluate the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM).
 3. Fine-tuned the parameters of the algorithm that generated the highest donation yield.
