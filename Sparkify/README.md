@@ -1,4 +1,4 @@
-# Project: Sparkify - ETL with Postgres & Python
+# Project: Sparkify - ETL with Postgres & Python 
 
 ## Project Details
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. They'd like a Postgres database created with tables designed to optimize queries on song play analysis.  
