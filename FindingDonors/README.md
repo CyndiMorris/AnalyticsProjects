@@ -13,6 +13,35 @@ Things learned by completing this project:
 
 ### Q & A:
 
+**Naive Predictor Performance:**  
+1. What would the model's accuracy and F-score be if we chose a model that always predicted an individual made more than $50,000?  
+
+**Model Application:**  
+1. List three supervised learning models appropriate for this problem.  
+2. For each model chosen, describe a real-world application, its strengths, weaknesses, and why it's a good candidate for the problem.
+ 
+**Choosing the Best Model:**  
+1. Based on the evaluation performed earlier, explain which of the three models is most appropriate for identifying individuals making more than $50,000.
+   
+**Describing the Model in Layman's Terms:**  
+1. Explain how the final model chosen works in layman's terms, including its major qualities such as training and prediction processes.
+   
+**Final Model Evaluation:**  
+1. What are the optimized model's accuracy and F-score on the testing data?  
+2. Are these scores better or worse than the unoptimized model?  
+3. How do the results compare to the naive predictor benchmarks?
+   
+**Feature Relevance Observation:**
+1. Of the thirteen available features in the dataset, which five features do you believe are most important for prediction, and in what order would you rank them?  
+2. Why?
+   
+**Extracting Feature Importance:**
+1. Train a supervised learning algorithm and extract feature importances to determine the top five most important features for the dataset.
+   
+**Effects of Feature Selection:**
+1. How does the final model's performance on reduced data using only five features compare to the full data model's performance?  
+2. Would you consider using the reduced data as the training set if training time was a factor?  
+
 Steps performed:
 1. Investigated the factors influencing charitable donation likelihood.
 2. Established a training and prediction pipeline to evaluate the accuracy and efficiency of three supervised machine learning algorithms: Gradient Boosting Classifier, Random Forest Classifier, and Support Vector Machines (SVM).
