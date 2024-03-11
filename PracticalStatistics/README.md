@@ -65,8 +65,7 @@ Utilizing various visualizations including histograms, scatter plots, and box pl
 Python  
 NumPy  
 Pandas  
-Matplotlib  
-Seaborn  
+Matplotlib   
 StatsModels   
 Jupyter Notebooks  
  
